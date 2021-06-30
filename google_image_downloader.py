@@ -65,7 +65,7 @@ def download():
             file.write(response.content)
         
 
-    print('Done')
+    print('DONE')
     
 
 
